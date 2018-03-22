@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "Post Two",
+      "body": "Second Post",
+      "id": 4
+    },
+    {
+      "title": "Post Three",
+      "body": "This is what has been on my mind...windsong.",
+      "id": 5
+    }
+  ]
+}
